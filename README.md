@@ -4,6 +4,7 @@
 <p align="center">
 <img width="1000px" alt="Awesome DeepSeek" src="docs/awesome-deepseek.webp">
 </p>
+</div>
 
 # Awesome DeepSeek [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
