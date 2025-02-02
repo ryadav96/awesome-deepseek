@@ -1,14 +1,17 @@
 <!-- Banner -->
 
-![DeepSeek Banner](https://your-cdn-or-image-host.com/deepseek-banner.png)
+<div align="center">
+<p align="center">
+<img width="1000px" alt="Awesome DeepSeek" src="docs/awesome-deepseek.webp">
+</p>
 
 # Awesome DeepSeek [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 **DeepSeek** is a suite of state-of-the-art models including DeepSeek-LM (language models), DeepSeek-VL (vision-language), DeepSeek-Coder (coding assistant), and more. This repository curates the best resources, tutorials, tools, and projects around DeepSeek to help researchers, developers, and enthusiasts stay ahead in the evolving AI/ML landscape.
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/awesome-deepseek.svg?style=social)](https://github.com/yourusername/awesome-deepseek/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/ryadav96/awesome-deepseek.svg?style=social)](https://github.com/ryadav96/awesome-deepseek/stargazers)
 [![Discord](https://img.shields.io/discord/your-discord-id.svg)](https://discord.gg/yourserver)
-[![Twitter](https://img.shields.io/twitter/follow/yourhandle.svg?style=social)](https://twitter.com/yourhandle)
+[![Twitter](https://img.shields.io/twitter/follow/jsbugpost.svg?style=social)](https://twitter.com/jsbugpost)
 
 ---
 
